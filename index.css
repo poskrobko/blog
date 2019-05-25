@@ -1,0 +1,102 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: 'Noto Sans SC', sans-serif;
+    text-align: center;
+}
+.date {
+    text-align: right;
+    top: 2px;
+    right: 580px;
+    position: absolute;
+}
+p {
+    text-align: justify;
+}
+h2 {
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+h3 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+img {
+    float: left;
+}
+body {
+    margin-left: 100px;
+    margin-right: 600px;
+    background: #BCE498;
+}
+h4 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+h5 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+h6 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+.life {
+    border-top: 1px solid;
+    color: black;
+    width: 110%;
+}
+.life img {
+    height: 75px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.red img {
+    width: 40%;
+    margin-right: 10px;
+}
+.flowers img {
+    width: 40%;
+    margin-right: 10px;
+}
+.yellow img {
+    width: 48%;
+    margin-right: 10px;
+}
+.sport img {
+    width: 32%;
+    margin-right: 10px;
+}
+.long img {
+    width: 33%;
+    margin-right: 10px;
+}
+.part img {
+    width: 25%;
+    margin-right: 10px;
+}
+.place img {
+    width: 21%;
+    margin-right: 10px;
+}
+.first {
+   text-align: right;
+   top: 2px;
+   right: 40px;
+   position: absolute;
+}
